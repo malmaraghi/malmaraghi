@@ -10,6 +10,4 @@ Cybersecurity graduate. This GitHub contains projects developed during universit
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Almaraghi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-almaraghi-8b8831292/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-malmaraghi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malmaraghi)
-
 [![CV](https://img.shields.io/badge/CV-View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1u47BGKOiN_C8uItPmUw-kNhx85ksUyGn/view?usp=sharing)
