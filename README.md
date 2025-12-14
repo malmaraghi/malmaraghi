@@ -7,6 +7,7 @@ Cybersecurity graduate. This GitHub contains projects developed during universit
 ## Connect
 
 **Email:** mmaraghi47@gmail.com  
+**LinkedIn:** [linkedin.com/in/mohamed-almaraghi](https://www.linkedin.com/in/mohamed-almaraghi-8b8831292/)
 **GitHub:** [github.com/malmaraghi](https://github.com/malmaraghi)
 
 
