@@ -1,5 +1,1 @@
-# Mohamed Almaraghi
-
-## Cybersecurity | Full-Stack Development
-
-Cybersecurity graduate. This GitHub contains projects developed during university coursework, senior project work, internships, and professional development programs, covering different areas of cybersecurity and full-stack development.
+This GitHub contains projects developed during university coursework, senior project work, internships, and professional development programs, covering different areas of cybersecurity and full-stack development.
