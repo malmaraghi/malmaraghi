@@ -30,7 +30,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    padding: 20px 15px;
+    padding: 40px 15px;
     position: relative;
     overflow-x: hidden;
 }
